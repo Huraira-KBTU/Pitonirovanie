@@ -1,4 +1,4 @@
-import movies
+from movie_list import movies
 
 
 def above_threshold(movie):
